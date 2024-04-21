@@ -6,7 +6,7 @@ export default function SWBSLogo() {
     <div
       className={`${fugaz_one.className} flex flex-row items-center leading-none text-white`}
     >
-      <Cog8ToothIcon className="h-12 w-12 rotate-[15deg]" />
+      <Cog8ToothIcon className="flex-none h-12 w-12 rotate-[15deg]" />
       <p className="text-[44px]">SWBS</p>
     </div>
   );
